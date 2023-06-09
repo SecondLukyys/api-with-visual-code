@@ -1,0 +1,58 @@
+API: https://reqres.in/
+
+<script type = "text/javascript" src = "C:\Users\LENOVO\Desktop\Darbalaukis\Universiteto\Trecias kursas\Pavasario Semestras\Interneto technologijos\api su visual code\fetch.js">
+
+ console.log(fetch('https://reqres.in/api/users'));
+
+ function functionmyfunction()
+{
+    console.log(fetch('https://reqres.in/api/users'));
+}
+
+<body onload="functionmyfunction()"> 
+
+<a href="C:\Users\LENOVO\Desktop\Darbalaukis\Universiteto\Trecias kursas\Pavasario Semestras\Interneto technologijos\api su visual code\paveikslelis.jpg" download> Atsisiusti paveiksleli
+    <img src="C:\Users\LENOVO\Desktop\Darbalaukis\Universiteto\Trecias kursas\Pavasario Semestras\Interneto technologijos\api su visual code\paveikslelis.jpg">
+</a>
+
+.navbar {
+    padding: .8rem;
+}
+
+.navbar-nar li {
+    padding-right: 20px;
+}
+
+.nav-link {
+    font-size: 1.1em !important;
+}
+
+<a class="navbar bg-primary sticky-top emoji" href="#emoji" role="button" data-toggle="collapse"><a>
+
+
+    <!-- Start Fixed Background IMG-->
+
+    <div class="fixed-background">
+
+        <div class="row text-light py-5">
+            <div class="col-12 text-center">
+                <h1>Advance to the Next Level</h1>
+                <h3 class="py-4">..see what's on the other side.</h3>
+
+                <button type="button" data-toggle="modal" data-target="#modal1" class="btn btn-primary btn-lg mr-2">Blue pill</button>
+                <button type="button" data-toggle="modal" data-target="#modal1" class="btn btn-danger btn-lg ml-2">Red pill</button>
+            </div>
+        </div>
+
+
+        <div class="fixed-wrap">
+            <div class="fixed"></div>
+        </div>
+    </div>
+
+    <!-- End Fixed Background IMG -->
+
+
+    <!-- Emoji Navbar Second -->
+
+    <a class="navbar bg-primary sticky-top emoji" href="#emoji" role="button" data-toggle="collapse"><i class="fas fa-plug"></i><a>
